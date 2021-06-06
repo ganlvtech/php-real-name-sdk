@@ -1,0 +1,21 @@
+{
+    "name": "ganlvtech/real-name-sdk",
+    "description": "Unofficial SDK for CN government's online game anti addiction and real name system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ganlvtech",
+            "email": "ganlvtech@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RealNameSdk\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
