@@ -3,9 +3,10 @@
     "description": "Unofficial SDK for CN government's online game anti addiction and real name system",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
-            "name": "ganlvtech",
+            "name": "Ganlv",
             "email": "ganlvtech@qq.com"
         }
     ],
